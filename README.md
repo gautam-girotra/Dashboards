@@ -5,9 +5,9 @@ This repository is meant for displaying the dashboards that I have created.
 I have used the Indian Premier League(IPL) data from 2008-2022 to create an interactive dashboard in tableau.
 I have created various worksheets that perform different calculations . I have also used bar charts and donut charts to visualize the data based on what decision the captain took after winning the toss.
 I have added a season filter to let the viewer check the statitsics for the season they are specifically interested in.
-# All time Data
+## All time Data
 ![image](https://github.com/gautam-girotra/Dashboards/assets/69039186/85fb4ced-ec84-4b68-abb6-ea8d3de67f02)
-# Data for 2009
+## Data for 2009
 ![image](https://github.com/gautam-girotra/Dashboards/assets/69039186/50786df5-b55c-46f7-b8a6-57d0508b73c6)
  
 
