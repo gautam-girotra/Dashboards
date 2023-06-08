@@ -22,5 +22,3 @@ In the Bike-Buyers Dashboard, I have taken the Bike-Buyers dataset from [Dataset
 I performed Data Cleaning and created a Dashboard for Visualization in MS-EXCEL.  
 
 ![image](https://github.com/gautam-girotra/Dashboards/assets/69039186/d81f0cfb-20fc-44eb-bd64-b84da77b1662)
-
-Coming up next... IPL Dashboard in Tableau.
